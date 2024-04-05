@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003593022079",
+    "project_id": "growx-1081a",
+    "storage_bucket": "growx-1081a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003593022079:android:feac2dc570f6259db05d4a",
+        "android_client_info": {
+          "package_name": "com.gowthInvestment.growthX"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_do8W5-ht0raEM2lWGS3fNd_aNoNikik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
