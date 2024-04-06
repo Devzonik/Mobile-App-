@@ -25,7 +25,7 @@
     <category android:name="android.intent.category.DEFAULT"/>
     <category android:name="android.intent.category.BROWSABLE"/>
     <data
-        android:host="example.com"
+        android:host="growx.page.link"
         android:scheme="https"/>
 </intent-filter>
             <intent-filter>
